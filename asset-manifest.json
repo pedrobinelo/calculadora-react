@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/calculadora-react/static/js/main.17f66911.js",
+    "static/media/desk-top.jpg": "/calculadora-react/static/media/desk-top.10f96404915f1f247b41.jpg",
+    "static/media/trebuc.ttf": "/calculadora-react/static/media/trebuc.8dc5d2dd53924baa495c.ttf",
+    "static/media/DigitalNumbers-Regular.ttf": "/calculadora-react/static/media/DigitalNumbers-Regular.cc3aac3fb51de512bd28.ttf",
+    "index.html": "/calculadora-react/index.html",
+    "main.17f66911.js.map": "/calculadora-react/static/js/main.17f66911.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.17f66911.js"
+  ]
+}
